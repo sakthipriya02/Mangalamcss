@@ -1,0 +1,43 @@
+form{
+	text-align:center;
+}
+h1{
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:30px;
+}
+p{
+	margin-left:35px;
+	margin-right:35px;
+	color:purple;
+	font-size:40px;
+}
+h2{
+	font-size:25px;
+	text-align:center;
+	color:red;
+}
+body{
+	background-color:pink;
+}
+footer{
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:30px;
+}
+header{
+	background-color:pink;
+	padding:20px;
+}
+ul{
+	list-style:none;
+}
+li{
+	display:inline;
+	margin:100px;
+}
+img{
+	border-radius:50px;
+}
